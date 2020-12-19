@@ -8,6 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "bcrypt": "^5.0.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.8",
+    "mysql": "^2.18.1",
     "next": "10.0.3",
     "nodemailer": "^6.4.17",
     "react": "17.0.1",
